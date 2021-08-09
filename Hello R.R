@@ -13,3 +13,6 @@ print(umur)
 print(jeniskelamin)
 print(prodi)
 "Universitas Dian Nuswantoro"
+
+umur2 <- umur + 10
+umur2
